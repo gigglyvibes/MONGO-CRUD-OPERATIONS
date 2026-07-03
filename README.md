@@ -28,8 +28,7 @@ A RESTful Notes Backend API built using **Node.js**, **Express.js**, and **Mongo
 
 ## 📁 Project Structure
 
-```
-## 📁 Project Structure
+
 
 ```
 simple-crud-operations/
