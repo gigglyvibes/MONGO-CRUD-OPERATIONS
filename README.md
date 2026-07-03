@@ -29,14 +29,22 @@ A RESTful Notes Backend API built using **Node.js**, **Express.js**, and **Mongo
 ## 📁 Project Structure
 
 ```
-project-folder/
-│── models/
-│   └── Note.js
-│── routes/
-│   └── noteRoutes.js
-│── index.js
-│── package.json
-│── .gitignore
+## 📁 Project Structure
+
+```
+simple-crud-operations/
+├── src/
+│   ├── db/
+│   │   └── db.js
+│   ├── models/
+│   │   └── note.model.js
+│   └── app.js
+├── server.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
+```
 ```
 
 ---
