@@ -1,15 +1,1 @@
-p8f1rwkHx9mTYpFP
 
-
-mongodb+srv://manoj:<p8f1rwkHx9mTYpFP>@cluster0.oitfylp.mongodb.net/
-
-
-
-
-TFgxBWOIoWhLJq0b
-
-
-
-
-
-mongodb+srv://Manoj:<TFgxBWOIoWhLJq0b>@cluster0.awfoz44.mongodb.net/
