@@ -24,11 +24,11 @@ A RESTful Notes Backend API built using **Node.js**, **Express.js**, and **Mongo
 - **Mongoose**
 - **Postman**
 
----
+
 
 ## 📁 Project Structure
 
-
+```
 project-folder/
 │── models/
 │   └── Note.js
