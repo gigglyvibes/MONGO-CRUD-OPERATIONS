@@ -4,7 +4,7 @@ const mongoose=require('mongoose')
 
 
 async function connectdb(){
-   await  mongoose.connect('mongodb+srv://Manoj:eAYRT8xvXvlyW7tH@cluster0.awfoz44.mongodb.net/halley')
+   await  mongoose.connect('mongodb+srv://Manoj:cluster0.awfoz44.mongodb.net/halley')
     console.log("db is connected")
 }
 
